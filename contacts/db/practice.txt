@@ -1,0 +1,30 @@
+тут був текст
+ мова Node.js
+
+
+ // Прочитати зашифрованні ютф-8  файли
+// const fileOperation = async () => {
+//   const result = await fs.readFile("./contacts/db/contacts.json", "utf-8");
+//   console.log(result);
+// };
+
+//додати з нової строки
+// const addTextToEnd = async () => {
+//   const result = await fs.appendFile("./contacts/db/practice.txt", "\n мова Node.js");
+//   console.log(result);
+// };
+
+// //додати строку в у кінець текстового файлу
+// const addTextToStart = async () => {
+//   const result = await fs.appendFile("./contacts/db/practice.txt", "!");
+//   console.log(result);
+// };
+
+// const rewriteFile = async () => {
+//   const result = await fs.writeFile("./contacts/db/practice.txt", "тут був текст");
+//   console.log(result);
+// };
+
+// addTextToStart();
+// addTextToEnd();
+// rewriteFile();
